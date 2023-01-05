@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @bsquiz
-- 👀 I’m interested in bears
-- 🌱 I’m currently learning bear facts
-- 💞️ I’m looking to collaborate on bear investigations
-- 📫 How to reach me send trained bear carrying letter
+- 👀 I’m interested in games
+- 🌱 I’m currently learning about games
+- 💞️ I’m looking to collaborate on games
 
 <!---
 bsquiz/bsquiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
